@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇨🇦139816 | ⚡️Telegram = t.me/SOSkeyNET
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@172.67.172.95:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇨🇦139873 | ⚡️Telegram = t.me/SOSkeyNET
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.49.157:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇨🇦139876 | ⚡️Telegram = t.me/SOSkeyNET
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-10
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh#TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-7
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.6:443?path=/GOrbEh#TELEGRAM-leviconfigs?ed=2048&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@leviconfigs🪐-25
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@198.202.211.1:443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇺🇸139875 | ⚡️Telegram = t.me/SOSkeyNET
@@ -499,7 +503,3 @@ vless://d85711cf-c5f5-4166-8000-25958322b13f@xnforo.ir:8443?mode=auto&path=/api/
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=/assets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#@KAFING_2
 vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
 vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?encryption=none&type=ws&host=freekabotar.global.ssl.fastly.net&path=/ws&security=none#@ehsawn8
-vless://d8d23e60-d5aa-4556-b513-875e1e85d924@itunes.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#@Tarkshodeh 🇨🇵
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?type=tcp&headerType=none&security=reality&fp=chrome&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#@SylphNet | 2026-06-27 03:57
-vless://d91b8870-2ded-432d-a105-f3706d1feee1@nl2.h1cloud.net:25454?mode=gun&security=reality&encryption=none&pbk=YOgsoXtChX3RvA0Gf9SSsP8VLP4GGk7dytVBo9qZCH4&fp=chrome&spx=/&type=grpc&serviceName=becc6caf9bea&sni=www.ns.nl&sid=221ba0d14384ccf1#9971 @proxy_online_net
-vless://d91b8870-2ded-432d-a105-f3706d1feee1@nl2.h1cloud.net:25454?mode=gun&security=reality&encryption=none&pbk=YOgsoXtChX3RvA0Gf9SSsP8VLP4GGk7dytVBo9qZCH4&fp=chrome&spx=/&type=grpc&serviceName=becc6caf9bea&sni=www.ns.nl&sid=221ba0d14384ccf1#Channel : @Daily_Configs

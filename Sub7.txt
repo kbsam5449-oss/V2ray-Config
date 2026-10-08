@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://58ca7c2e-dfd7-4414-984d-58a1084e2424@82.145.55.75:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#3
+vless://58ea8326-65e1-4848-9ee6-cb6bc8753ba5@www.zula.ir:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=V2ray-Napsternet-Irancell-Iran-Fair.Varzesh3-CDN.site#MTN+ZULA+@vpnsal @vpnsal @vpnsal
+vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg#TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#2‎🛰️ @EXPRESSVPN_420
+vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
 vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN
 vless://591fcd6e-2328-4fc3-926c-a3bec2928064@85.8.231.100:8443?security=reality&encryption=none&pbk=lseiDONcVbtjM1Y5iD6pPQ6kQmIjPx5a0sR0U-pMn1w&headerType=none&fp=chrome&type=tcp&sni=www.varzesh3.com&sid=1501739a6e643e71#kurdconfig
@@ -499,7 +503,3 @@ vless://6f790282-c452-4543-8fe3-725db688b350@en.con.gmail.cdn.admni.ir:25265?sec
 vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@185.121.234.47:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-1 🇳🇱
 vless://6f87d6c8-6a9c-4ce9-940a-2a91d86b58e8@91.84.113.126:3701?security=reality&encryption=none&pbk=g2sGRzHjnyC06HbpTkPdikRrYYP-09aZ4UT-WKVODTo&headerType=none&fp=chrome&spx=/y1gWdaecnKIKUd2&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=7b1a#SPDNET-3 🇳🇱
 vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.100:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://6fc36cfc-561f-4544-9a0e-7c732c478501@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
-vless://7023c57e-b2c8-4803-bb74-fb60babd0d7a@soskeynets.theatak.online:42543?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=token.safebrowsing.apple&pbk=hzr6SVICzY0M6vyDRrOUPdCHb1jiVI0tnvG3_CDw3js&sid=aefc7f3722#🇩🇪139805 | ⚡️Telegram = t.me/SOSkeyNET
-vless://702c098f-a29a-415d-af86-cf72a437c200@38.180.1.198:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#@Hope_Net-join-us-on-Telegram
