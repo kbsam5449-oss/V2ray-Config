@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://70d94f75-064c-4e34-d2cf-0b6ef4d49ef7@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@confiig_hub
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?path=/&security=none&encryption=none&type=ws#@hopev2ray🩷
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?path=/&security=&encryption=none&host=laoye.in-gect.fun&type=ws#Latvia 🇱🇻
 vless://71091100-c6ed-41fa-84ac-acf7ff9eeb7f@212.46.33.5:443?security=reality&encryption=none&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=slowkd.sadiepinki.com&sid=9c2378562188c3cb#@Tarkshodeh 🇧🇲
@@ -502,4 +503,3 @@ vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?encryption=none&f
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=d3-de1.cloud-cdn.xyz&fp=chrome&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&sid=494afdc75f8c2fa8&type=tcp&headerType=none#🇩🇪DE_2160_@Surfboardv2ray
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#@IRAN_V2RAY1 🌟
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#@v2ray313 کانالمون 😘
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@87.58.201.170:443?encryption=none&security=tls&sni=d3-nl1.cloud-cdn.xyz&fp=chrome&alpn=h2&type=grpc&authority=&serviceName=vlgrpc&mode=gun#🇳🇱NL_2161_@Surfboardv2ray
